@@ -22,3 +22,6 @@ chmod +777 Wordpress.sh
 ./Wordpress.sh
 ````
 
+## installation de Zabbix
+
+malheureusement pas eu le temps de le faire  (＃￣ω￣)
