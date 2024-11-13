@@ -16,6 +16,7 @@ ce fichier contien les commandes pour pouvoir installer docker, docker compose
 installation d'un conteneur wordpress
 
 chmod +777 Wordpress.sh
+
 ./Wordpress.sh
 
 
